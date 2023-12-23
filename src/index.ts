@@ -8,7 +8,8 @@ const createCookie = createCookieFactory({ sign, unsign });
 const sessionStorage = createCookieSessionStorageFactory(createCookie)({
   cookie: {
     name: "toast-session",
-    sameSite: "lax",
+    sameSite: "none",
+    secure: true,
     path: "/",
     httpOnly: true,
     secrets: ["s3Cr3t"],
