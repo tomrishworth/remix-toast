@@ -1,5 +1,5 @@
 {
-  "name": "remix-toast",
+  "name": "shopify-remix-toast",
   "version": "1.1.0",
   "description": "Utility functions for server-side toast notifications",
   "type": "module",
@@ -54,7 +54,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Code-Forge-Net/remix-toast.git"
+    "url": "git+https://github.com/tomrishworthremix-toast.git"
   },
   "keywords": [
     "Remix",
@@ -66,10 +66,10 @@
   "author": "Alem Tuzlak",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Code-Forge-Net/remix-toast/issues"
+    "url": "https://github.com/tomrishworth/remix-toast/issues"
   },
-  "homepage": "https://github.com/Code-Forge-Net/remix-toast#readme",
-  "readme": "https://github.com/Code-Forge-Net/remix-toast#readme",
+  "homepage": "https://github.com/tomrishworth/remix-toast#readme",
+  "readme": "https://github.com/tomrishworth/remix-toast#readme",
   "dependencies": {
     "zod": "^3.22.3"
   },
